@@ -1,6 +1,6 @@
-RGBLIGHT_ENABLE = yes
+RGBLIGHT_ENABLE = no
 
-OLED_ENABLE = yes
+OLED_ENABLE = no
 
 VIA_ENABLE = yes
 
